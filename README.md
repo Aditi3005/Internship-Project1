@@ -23,16 +23,22 @@ Implementation Steps
 .EC2 Instance Running
 <img width="1910" height="1022" alt="Screenshot 2026-11-20 185823" src="https://github.com/user-attachments/assets/4f95de7f-8d5e-4c1e-a977-26f96fc52a8e" />
 
+
 .Security Group Configuration
+
 
  <img width="1915" height="945" alt="3" src="https://github.com/user-attachments/assets/ad38cbcd-82c6-40c2-a1c1-0e02ac7abdc4" />
 
 
+
  .Apache Installation
+
 
  <img width="1916" height="1027" alt="2" src="https://github.com/user-attachments/assets/0c0219c6-6764-4ab4-be89-681bff07edca" />
 
+
 .Website Output
+
 
 <img width="1912" height="1007" alt="intership project" src="https://github.com/user-attachments/assets/62d35820-6d70-4d85-81f7-92bc5a5b3352" />
 
